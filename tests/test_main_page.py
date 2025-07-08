@@ -1,6 +1,5 @@
 import pytest
 import allure
-from tests.conftest import driver
 from pages.main_page import MainPage
 from data import *
 
